@@ -9,6 +9,9 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border: 30px;
+  border-style: double;
+  border-color: rgb(77, 77, 71);
 }
 
 h2 {
