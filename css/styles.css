@@ -1,5 +1,5 @@
 h1 {
-  color: rgba(0, 0, 0, 0.958);
+  color: rgb(11, 11, 11);
   text-align: center;
 }
 
@@ -45,17 +45,23 @@ h2 {
   float:left;
 }
 
+.highlight {
+  color: rgb(249, 20, 181);
+}
+
 img.float {
   float:right;
   margin-left: auto;
   margin-right: auto;
+  width: max-content;
+  height: max-content;
 }
 
 .section2 {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-size-adjust: 18px;
   text-align: right;
-  background-color: rgb(241, 217, 95);
+  background-color: rgb(11, 11, 11);
   padding: 8px;
-  color: rgb(5, 11, 65);
+  color: rgb(249, 249, 252);
 }
