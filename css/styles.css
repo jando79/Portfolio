@@ -35,19 +35,26 @@ h2 {
   color: rgb(5, 11, 65);
 }
 
-.section2 {
+.sidebar1 {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-size-adjust: 18px;
   text-align: justify;
   background-color: rgb(177, 233, 88);
-  padding: 8px;
+  padding: 90px;
   color: rgb(5, 11, 65);
+  float:left;
 }
 
-.section3 {
+img.float {
+  float:right;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section2 {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-size-adjust: 18px;
-  text-align: center;
+  text-align: right;
   background-color: rgb(241, 217, 95);
   padding: 8px;
   color: rgb(5, 11, 65);
