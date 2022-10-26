@@ -4,6 +4,8 @@
 
 #### This site serves as the portfolio of David Jandron
 
+##### https://github.com/jando79/Portfolio
+
 ## Technologies Used
 
 * HTML
@@ -20,7 +22,7 @@
 
 ## Known Bugs
 
-* There are no known bugs.
+* webpage respository links are showing as clickable thumbnail instead of the actual site name.
 
 ## License
 
