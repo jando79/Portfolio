@@ -17,8 +17,10 @@
 
 ## Setup/Installation Requirements
 
-* Simply open the HTML in your web browser to read about David.
-* Click the various links to view pages David has contributed to.
+* To view, visit jando79 repository on gitHub
+* clone the project titled "Portfolio"
+* navigate to the cloned folder
+* open the file titled: index.html to view the final product
 
 ## Known Bugs
 
