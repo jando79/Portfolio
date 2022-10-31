@@ -17,10 +17,10 @@
 
 ## Setup/Installation Requirements
 
-* To view, visit jando79 repository on gitHub
-* clone the project titled "Portfolio"
-* navigate to the cloned folder
-* open the file titled: index.html to view the final product
+* To view, clone this repository to your desktop
+* Navigate to the top of your directory
+* Open the index.html in your browser
+* The site can also be reached by following this link: https://jando79.github.io/Portfolio/
 
 ## Known Bugs
 
